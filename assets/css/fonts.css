@@ -3,61 +3,61 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/aFTU7PB1QTsUX8KYhh0.ttf) format('truetype');
+  src: url(../fonts/aFTU7PB1QTsUX8KYhh0.ttf) format('truetype');
 }
 @font-face {
   font-family: 'DM Mono';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(fonts/aFTR7PB1QTsUX8KYvumzIYQ.ttf) format('truetype');
+  src: url(../fonts/aFTR7PB1QTsUX8KYvumzIYQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Libre Baskerville';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNK.ttf) format('truetype');
+  src: url(../fonts/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNK.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Libre Baskerville';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQ.ttf) format('truetype');
+  src: url(../fonts/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Libre Baskerville';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(fonts/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSCQ.ttf) format('truetype');
+  src: url(../fonts/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSCQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Source Sans 3';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf) format('truetype');
+  src: url(../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Source Sans 3';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf) format('truetype');
+  src: url(../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Source Sans 3';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf) format('truetype');
+  src: url(../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Source Sans 3';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf) format('truetype');
+  src: url(../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf) format('truetype');
 }
